@@ -1,0 +1,207 @@
+2023/06/19 00:01:35.535 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.042597ms| nomatch|[97;44m GET     [0m /securityRealm/user/admin/search/index
+2023/06/19 00:02:26.502 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|     744.84µs| nomatch|[97;44m GET     [0m /securityRealm/user/admin/search/index
+2023/06/19 00:11:01.715 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    267.324µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:11:03.035 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   2.212718ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 00:11:29.652 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    259.707µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:11:31.850 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.852062ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 00:13:21.391 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.451293ms| nomatch|[97;46m POST    [0m /Autodiscover/Autodiscover.xml
+2023/06/19 00:15:13.836 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.472452ms| nomatch|[97;46m POST    [0m /Autodiscover/Autodiscover.xml
+2023/06/19 00:22:00.856 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.201059ms| nomatch|[97;46m POST    [0m /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+2023/06/19 00:22:27.620 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    905.523µs| nomatch|[97;46m POST    [0m /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+2023/06/19 00:25:07.940 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    324.277µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:25:08.764 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.481804ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 00:25:30.283 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    862.799µs| nomatch|[97;44m GET     [0m /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+2023/06/19 00:25:53.206 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    848.139µs| nomatch|[97;44m GET     [0m /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+2023/06/19 00:27:55.675 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    870.105µs| nomatch|[97;44m GET     [0m /index.php
+2023/06/19 00:30:31.550 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    1.60043ms| nomatch|[97;44m GET     [0m /index.php
+2023/06/19 00:34:05.141 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|     348.76µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:34:10.591 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.755156ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 00:34:10.767 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    243.643µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:34:12.624 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.506143ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 00:34:20.503 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|     709.83µs| nomatch|[0m CONNECT [0m    
+2023/06/19 00:41:25.046 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.216713ms| nomatch|[97;46m POST    [0m /mifs/.;/services/LogService
+2023/06/19 00:42:52.618 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    974.463µs| nomatch|[97;46m POST    [0m /mifs/.;/services/LogService
+2023/06/19 00:44:31.633 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    1.37731ms| nomatch|[97;44m GET     [0m /console/
+2023/06/19 00:46:53.801 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    949.311µs| nomatch|[97;44m GET     [0m /console/
+2023/06/19 00:50:00.053 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    891.875µs| nomatch|[97;44m GET     [0m /_ignition/execute-solution
+2023/06/19 00:52:23.198 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.258734ms| nomatch|[97;44m GET     [0m /_ignition/execute-solution
+2023/06/19 00:55:13.682 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    240.006µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:55:25.956 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    230.237µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:55:26.275 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|    1.47909ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 00:55:29.162 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.141815ms| nomatch|[97;44m GET     [0m /favicon.ico
+2023/06/19 00:55:31.777 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    315.208µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:55:34.075 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    905.135µs| nomatch|[0m CONNECT [0m    
+2023/06/19 00:58:05.982 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    567.292µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:58:07.259 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.755483ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 00:59:09.470 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    249.267µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:59:10.456 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.835983ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 00:59:21.521 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    260.757µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:59:22.197 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.470851ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 00:59:56.780 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    215.504µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 00:59:57.705 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.615427ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 01:08:02.548 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.284721ms| nomatch|[97;46m POST    [0m /cgi-bin/../../../../bin/sh
+2023/06/19 01:11:37.829 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    304.237µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 01:11:38.756 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.244913ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 01:13:33.196 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    357.499µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 01:13:33.882 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.955148ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 01:16:08.405 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.023988ms| nomatch|[97;44m GET     [0m /actuator/gateway/routes
+2023/06/19 01:16:56.258 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    713.054µs| nomatch|[97;44m GET     [0m /actuator/gateway/routes
+2023/06/19 01:20:11.053 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|     312.86µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 01:20:11.373 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.573295ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 01:20:11.863 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.107841ms| nomatch|[97;44m GET     [0m /gui
+2023/06/19 01:21:57.054 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    818.261µs| nomatch|[97;44m GET     [0m /geoserver
+2023/06/19 01:23:02.569 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    903.086µs| nomatch|[97;44m GET     [0m /geoserver
+2023/06/19 01:26:24.787 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    1.13854ms| nomatch|[97;44m GET     [0m /manager/html
+2023/06/19 01:39:51.554 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    358.059µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 02:04:03.606 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    291.148µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 02:09:15.017 [I] [asm_amd64.s:1571]  http server Running on http://0.0.0.0:8887
+2023/06/19 02:10:06.110 [I] [asm_amd64.s:1571]  http server Running on http://0.0.0.0:8888
+2023/06/19 02:10:27.957 [C] [panic.go:838]  the request url is  /
+2023/06/19 02:10:27.957 [C] [panic.go:838]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2023/06/19 02:10:27.957 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:838
+2023/06/19 02:10:27.957 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:220
+2023/06/19 02:10:27.957 [C] [panic.go:838]  /usr/local/go/src/runtime/signal_unix.go:818
+2023/06/19 02:10:27.957 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/controller.go:632
+2023/06/19 02:10:27.957 [C] [panic.go:838]  /Users/kade.chen/gokade1/base/auth/AuthorizationController.go:27
+2023/06/19 02:10:27.957 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/router.go:854
+2023/06/19 02:10:27.957 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:2916
+2023/06/19 02:10:27.958 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:1966
+2023/06/19 02:10:27.958 [C] [panic.go:838]  /usr/local/go/src/runtime/asm_amd64.s:1571
+2023/06/19 02:10:27.959 [server.go:3195]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2023/06/19 02:10:28.418 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    750.791µs| nomatch|[97;44m GET     [0m /favicon.ico
+2023/06/19 02:10:30.543 [C] [panic.go:838]  the request url is  /
+2023/06/19 02:10:30.543 [C] [panic.go:838]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2023/06/19 02:10:30.543 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:838
+2023/06/19 02:10:30.543 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:220
+2023/06/19 02:10:30.543 [C] [panic.go:838]  /usr/local/go/src/runtime/signal_unix.go:818
+2023/06/19 02:10:30.543 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/controller.go:632
+2023/06/19 02:10:30.543 [C] [panic.go:838]  /Users/kade.chen/gokade1/base/auth/AuthorizationController.go:27
+2023/06/19 02:10:30.543 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/router.go:854
+2023/06/19 02:10:30.543 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:2916
+2023/06/19 02:10:30.543 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:1966
+2023/06/19 02:10:30.543 [C] [panic.go:838]  /usr/local/go/src/runtime/asm_amd64.s:1571
+2023/06/19 02:10:30.543 [server.go:3195]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2023/06/19 02:11:14.160 [I] [asm_amd64.s:1571]  http server Running on http://0.0.0.0:8888
+2023/06/19 02:11:14.636 [C] [panic.go:838]  the request url is  /
+2023/06/19 02:11:14.636 [C] [panic.go:838]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2023/06/19 02:11:14.636 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:838
+2023/06/19 02:11:14.636 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:220
+2023/06/19 02:11:14.636 [C] [panic.go:838]  /usr/local/go/src/runtime/signal_unix.go:818
+2023/06/19 02:11:14.636 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/controller.go:632
+2023/06/19 02:11:14.636 [C] [panic.go:838]  /Users/kade.chen/gokade1/base/auth/AuthorizationController.go:27
+2023/06/19 02:11:14.636 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/router.go:854
+2023/06/19 02:11:14.636 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:2916
+2023/06/19 02:11:14.636 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:1966
+2023/06/19 02:11:14.636 [C] [panic.go:838]  /usr/local/go/src/runtime/asm_amd64.s:1571
+2023/06/19 02:11:14.637 [server.go:3195]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2023/06/19 02:12:07.067 [I] [asm_amd64.s:1571]  http server Running on http://0.0.0.0:8888
+2023/06/19 02:12:07.239 [C] [panic.go:838]  the request url is  /
+2023/06/19 02:12:07.239 [C] [panic.go:838]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2023/06/19 02:12:07.239 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:838
+2023/06/19 02:12:07.239 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:220
+2023/06/19 02:12:07.239 [C] [panic.go:838]  /usr/local/go/src/runtime/signal_unix.go:818
+2023/06/19 02:12:07.239 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/controller.go:632
+2023/06/19 02:12:07.239 [C] [panic.go:838]  /Users/kade.chen/gokade1/base/auth/AuthorizationController.go:27
+2023/06/19 02:12:07.239 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/router.go:854
+2023/06/19 02:12:07.239 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:2916
+2023/06/19 02:12:07.239 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:1966
+2023/06/19 02:12:07.239 [C] [panic.go:838]  /usr/local/go/src/runtime/asm_amd64.s:1571
+2023/06/19 02:12:07.240 [server.go:3195]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2023/06/19 02:12:11.746 [C] [panic.go:838]  the request url is  /
+2023/06/19 02:12:11.746 [C] [panic.go:838]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2023/06/19 02:12:11.746 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:838
+2023/06/19 02:12:11.746 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:220
+2023/06/19 02:12:11.746 [C] [panic.go:838]  /usr/local/go/src/runtime/signal_unix.go:818
+2023/06/19 02:12:11.746 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/controller.go:632
+2023/06/19 02:12:11.746 [C] [panic.go:838]  /Users/kade.chen/gokade1/base/auth/AuthorizationController.go:27
+2023/06/19 02:12:11.746 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/router.go:854
+2023/06/19 02:12:11.746 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:2916
+2023/06/19 02:12:11.746 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:1966
+2023/06/19 02:12:11.746 [C] [panic.go:838]  /usr/local/go/src/runtime/asm_amd64.s:1571
+2023/06/19 02:12:11.747 [server.go:3195]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2023/06/19 02:12:30.262 [C] [panic.go:838]  the request url is  /
+2023/06/19 02:12:30.262 [C] [panic.go:838]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2023/06/19 02:12:30.262 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:838
+2023/06/19 02:12:30.262 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:220
+2023/06/19 02:12:30.262 [C] [panic.go:838]  /usr/local/go/src/runtime/signal_unix.go:818
+2023/06/19 02:12:30.262 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/controller.go:632
+2023/06/19 02:12:30.262 [C] [panic.go:838]  /Users/kade.chen/gokade1/base/auth/AuthorizationController.go:27
+2023/06/19 02:12:30.262 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/router.go:854
+2023/06/19 02:12:30.262 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:2916
+2023/06/19 02:12:30.262 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:1966
+2023/06/19 02:12:30.262 [C] [panic.go:838]  /usr/local/go/src/runtime/asm_amd64.s:1571
+2023/06/19 02:12:30.263 [server.go:3195]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2023/06/19 02:12:31.766 [C] [panic.go:838]  the request url is  /
+2023/06/19 02:12:31.766 [C] [panic.go:838]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2023/06/19 02:12:31.766 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:838
+2023/06/19 02:12:31.766 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:220
+2023/06/19 02:12:31.766 [C] [panic.go:838]  /usr/local/go/src/runtime/signal_unix.go:818
+2023/06/19 02:12:31.766 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/controller.go:632
+2023/06/19 02:12:31.766 [C] [panic.go:838]  /Users/kade.chen/gokade1/base/auth/AuthorizationController.go:27
+2023/06/19 02:12:31.766 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/router.go:854
+2023/06/19 02:12:31.766 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:2916
+2023/06/19 02:12:31.766 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:1966
+2023/06/19 02:12:31.766 [C] [panic.go:838]  /usr/local/go/src/runtime/asm_amd64.s:1571
+2023/06/19 02:12:31.767 [server.go:3195]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2023/06/19 02:12:39.002 [C] [panic.go:838]  the request url is  /
+2023/06/19 02:12:39.002 [C] [panic.go:838]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2023/06/19 02:12:39.002 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:838
+2023/06/19 02:12:39.002 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:220
+2023/06/19 02:12:39.002 [C] [panic.go:838]  /usr/local/go/src/runtime/signal_unix.go:818
+2023/06/19 02:12:39.002 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/controller.go:632
+2023/06/19 02:12:39.002 [C] [panic.go:838]  /Users/kade.chen/gokade1/base/auth/AuthorizationController.go:27
+2023/06/19 02:12:39.002 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/router.go:854
+2023/06/19 02:12:39.002 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:2916
+2023/06/19 02:12:39.002 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:1966
+2023/06/19 02:12:39.002 [C] [panic.go:838]  /usr/local/go/src/runtime/asm_amd64.s:1571
+2023/06/19 02:12:39.002 [server.go:3195]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2023/06/19 02:12:45.794 [C] [panic.go:838]  the request url is  /
+2023/06/19 02:12:45.794 [C] [panic.go:838]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2023/06/19 02:12:45.794 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:838
+2023/06/19 02:12:45.794 [C] [panic.go:838]  /usr/local/go/src/runtime/panic.go:220
+2023/06/19 02:12:45.794 [C] [panic.go:838]  /usr/local/go/src/runtime/signal_unix.go:818
+2023/06/19 02:12:45.794 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/controller.go:632
+2023/06/19 02:12:45.794 [C] [panic.go:838]  /Users/kade.chen/gokade1/base/auth/AuthorizationController.go:27
+2023/06/19 02:12:45.794 [C] [panic.go:838]  /Users/kade.chen/go/pkg/mod/github.com/astaxie/beego@v1.12.2/router.go:854
+2023/06/19 02:12:45.794 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:2916
+2023/06/19 02:12:45.794 [C] [panic.go:838]  /usr/local/go/src/net/http/server.go:1966
+2023/06/19 02:12:45.794 [C] [panic.go:838]  /usr/local/go/src/runtime/asm_amd64.s:1571
+2023/06/19 02:12:45.794 [server.go:3195]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2023/06/19 02:13:20.618 [I] [asm_amd64.s:1571]  http server Running on http://0.0.0.0:8888
+2023/06/19 02:13:22.064 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    585.583µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 02:13:22.461 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   2.144607ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 02:13:24.012 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m| 337.891037ms|   match|[97;44m GET     [0m /static/components/bootstrap-4.5.0/css/bootstrap.min.css
+2023/06/19 02:13:24.705 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m| 511.114531ms|   match|[97;44m GET     [0m /static/img/kubernetes.jpg
+2023/06/19 02:13:26.647 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m| 837.801542ms|   match|[97;44m GET     [0m /static/img/kubernetes1.png
+2023/06/19 02:16:08.642 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    338.465µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 02:47:58.442 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    429.665µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 02:47:59.187 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   2.609745ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 02:59:00.303 [D] [server.go:2916]  |  205.210.31.69|[90;47m 302 [0m|    242.913µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 02:59:00.306 [D] [server.go:2916]  |  205.210.31.69|[97;42m 200 [0m|   1.315816ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 03:06:33.983 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.989259ms| nomatch|[0m CONNECT [0m    
+2023/06/19 03:12:06.554 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    368.733µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 03:12:12.574 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    386.506µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 03:12:13.067 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   2.277271ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 03:12:16.705 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    886.337µs| nomatch|[97;44m GET     [0m /favicon.ico
+2023/06/19 03:12:23.786 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    287.925µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 03:22:07.770 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    300.896µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 03:22:15.838 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    406.017µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 03:22:16.161 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   2.094111ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 03:22:20.060 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|     925.58µs| nomatch|[97;44m GET     [0m /favicon.ico
+2023/06/19 03:22:22.757 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    340.606µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 03:22:25.070 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    957.659µs| nomatch|[0m CONNECT [0m    
+2023/06/19 03:42:52.272 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    316.767µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 03:42:53.212 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.900821ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 05:39:16.905 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|   4.023399ms|   match|[97;44m GET     [0m /     r:/
+2023/06/19 05:39:17.456 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    369.516µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 05:39:18.844 [D] [server.go:2916]  |   34.92.83.202|[97;43m 405 [0m|   2.750712ms| nomatch|[0m PRI     [0m *  
+2023/06/19 05:39:19.384 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   5.642192ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 05:39:20.776 [D] [server.go:2916]  |   34.92.83.202|[97;43m 405 [0m|    506.316µs| nomatch|[0m PRI     [0m *  
+2023/06/19 05:39:22.170 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|   1.210105ms| nomatch|[97;44m GET     [0m /favicon.ico
+2023/06/19 05:53:39.262 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    335.075µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 05:55:00.824 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    278.338µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 05:55:01.479 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   2.777953ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 05:55:02.201 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    896.616µs| nomatch|[97;44m GET     [0m /favicon.ico
+2023/06/19 05:55:04.470 [D] [server.go:2916]  |   34.92.83.202|[90;47m 302 [0m|    334.689µs|   match|[97;44m GET     [0m /     r:/
+2023/06/19 05:55:05.802 [D] [server.go:2916]  |   34.92.83.202|[97;42m 200 [0m|   1.864104ms|   match|[97;44m GET     [0m /auth/login   r:/auth/login/*
+2023/06/19 05:55:06.588 [D] [server.go:2916]  |   34.92.83.202|[97;43m 404 [0m|    1.05365ms| nomatch|[97;44m GET     [0m /favicon.ico
